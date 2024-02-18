@@ -1,4 +1,3 @@
-import { data } from '../../../data';
 import Blogs from "@/components/blogs"
 import { getBlogs } from '../../../lib/blogs.js';
 
